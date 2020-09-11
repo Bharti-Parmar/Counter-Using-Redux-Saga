@@ -5,4 +5,4 @@ Counter by using Redux and Redux saga
 JS, ReactJs, Redux, Redux-Saga
 
 ## Example
-Taking example of Age increment and decrement bu using Redux-Saga.
+Taking example of Age increment and decrement by using Redux-Saga.
